@@ -1,0 +1,25 @@
+ul{
+    font-size: 22px;
+}
+body{
+    background-color: grey;
+}
+p{
+    font-size: 25px;
+    font-family: arial black;
+}
+h1{
+    font-size: 30px;
+}
+input{
+    font-size: 24px;
+    border-radius: 50px;
+}
+textarea{
+    font-size: 35px;
+    border:8px solid burlywood;
+}
+select{
+    font-size: 24px;
+    width: 50;
+}
